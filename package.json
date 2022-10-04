@@ -7,8 +7,8 @@
     "nodemon": "^2.0.20",
     "sucrase": "^3.27.0",
     "engines": {
-      "npm": "8.11.0",
-      "node": "16.15.1"
+      "npm": "8.x",
+      "node": "16.x"
     }
   },
   "scripts": {
